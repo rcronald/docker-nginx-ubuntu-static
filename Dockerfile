@@ -1,5 +1,4 @@
 FROM ubuntu:latest
-MAINTAINER Ronald Requena "rcronald@gmail.com"
 
 USER root
 
